@@ -22,8 +22,8 @@
 
 
 - [Searching](./Searching/)
-  - Linear Search
-  - Binary Search
+  - [Linear Search](./Searching/Linear%20Search)
+  - [Binary Search](./Searching/Binary%20Search)
   - Ternary Search
 
 
