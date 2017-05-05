@@ -24,7 +24,7 @@
 - [Searching](./Searching/)
   - [Linear Search](./Searching/Linear%20Search)
   - [Binary Search](./Searching/Binary%20Search)
-  - Ternary Search
+  - [Ternary Search](./Searching/Ternary%20Search)
 
 
 - [Sorting](./Sorting/)
