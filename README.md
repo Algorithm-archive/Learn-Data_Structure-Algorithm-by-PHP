@@ -8,7 +8,7 @@
 - [Introduction to PHP](#introduction)
 - [Data Structure](./Data%20Structure/)
   - Linked List
-  - Stack
+  - [Stack](./Data%20Structure/Stack)
   - Queue
   - Binary Search Tree (BST)
   - Heap
