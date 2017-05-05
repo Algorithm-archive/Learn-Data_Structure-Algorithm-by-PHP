@@ -32,7 +32,7 @@ To use a queue efficiently, we need to check the status of queue as well. For th
 - **isEmpty()** − check if queue is empty.
 
 ```
-In JavaScript, Queue can be easily implemented by an Array. JavaScript Arrays have the built-in methods called 'push' and 'shift', which do exactly the same operation as Queue.
+In PHP, Queue can be easily implemented by an Array. PHP have built-in methods called 'array_unshift'(insert at the beginning of an array) and 'array_pop'(remove from the end of an array), which can mimic the operations of an Queue.
 ```
 
 #### Complexity Analysis

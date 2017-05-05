@@ -42,7 +42,7 @@ To use a stack efficiently, we need to check the status of stack as well. For th
 
 
 ```
-In JavaScript, Stack can be easily implemented by an Array. JavaScript Arrays have the built-in methods called 'push' and 'pop', which do exactly the same operation as Stack.
+In PHP, Stack can be easily implemented by an Array. PHP have the built-in methods called 'array_push'(insert at the end of an array) and 'array_pop'(remove from the end of an array), which do exactly the same operation as Stack.
 ```
 
 
