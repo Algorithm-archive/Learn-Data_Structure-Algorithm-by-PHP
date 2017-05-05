@@ -9,7 +9,7 @@
 - [Data Structure](./Data%20Structure/)
   - Linked List
   - [Stack](./Data%20Structure/Stack)
-  - Queue
+  - [Queue](./Data%20Structure/Queue)
   - Binary Search Tree (BST)
   - Heap
   - Hash Table
