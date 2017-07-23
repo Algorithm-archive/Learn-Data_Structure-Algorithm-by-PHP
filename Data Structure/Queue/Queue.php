@@ -2,7 +2,7 @@
 /* Queue Implementation in PHP */
 
 //Queue Class
-class Queue{
+class Queue {
     private $_items = array();
 
     public function enqueue($value = NULL) {
@@ -24,12 +24,6 @@ class Queue{
 	public function isEmpty() {
 		return empty($this->_items);
 	}
-
-    public function printAll() {
-        foreach ($this->_items as $item) {
-            var_dump($item);
-        }
-    }
 }
 
 ?>

@@ -2,7 +2,7 @@
 /* Stack Implementation in PHP */
 
 //Stack Class
-class Stack{
+class Stack {
     private $_items = array();
 
     public function push($value = NULL) {
@@ -24,12 +24,6 @@ class Stack{
 	public function isEmpty() {
 		return empty($this->_items);
 	}
-
-    public function printAll() {
-        foreach ($this->_items as $item) {
-            var_dump($item);
-        }
-    }
 }
 
 ?>
